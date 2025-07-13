@@ -65,3 +65,21 @@ Star the repo ⭐, fork it 🍴, or open an issue 👇
 Let’s build above the clouds.
 
 [🌐 Repo Link](https://github.com/kingchico1/Sky-City-Consortium)
+
+---
+
+## 🎵 The SkyCity Anthem
+
+**Sound fuels vision.** This is the official track for the Sky City Consortium — composed by King Chico to embody the dream of a civilization above the clouds.
+
+> _Let the skies hear the sound of freedom._  
+> _Let music carry the weight of the dream._
+
+🎧 **Listen now:**  
+▶️ [SkyCity by King Chico on SoundCloud](https://soundcloud.com/king-chico-music/skycity)
+
+Have a scene or concept art in mind when you hear it?  
+Drop it in `/assets/` or share it in Issues.
+
+Let’s make the sky move with music.
+
